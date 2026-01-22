@@ -1,2 +1,2 @@
-numero = "Hola"
-print(numero ":v")
+saludo = "Hola"
+print(saludo ":v")
