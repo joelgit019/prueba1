@@ -1,2 +1,2 @@
-numero = 3
+numero = "Hola"
 print(numero ":v")
